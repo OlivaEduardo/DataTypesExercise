@@ -72,7 +72,5 @@ int main()
 		std::cout << "El valor en la posicion " << i + 1 << " es: " << myArray[i] << "\n";
 	}
 
-	short int cut = 0;
-	scanf_s("d%", cut);
-	return cut;
+	return 0;
 }
