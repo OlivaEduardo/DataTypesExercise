@@ -1,0 +1,19 @@
+x86:
+
+Size of Short Int:	2 (bytes)
+Size of Int:		4 (bytes)
+Size of Float:		4 (bytes)
+Size of Double:		8 (bytes)
+Size of Long:		4 (bytes)
+Size of Long Long:	8 (bytes)
+Size of Size_t:		4 (bytes)
+
+x64:
+
+Size of Short Int:	2 (bytes)
+Size of Int:		4 (bytes)
+Size of Float:		4 (bytes)
+Size of Double:		8 (bytes)
+Size of Long:		4 (bytes)
+Size of Long Long:	8 (bytes)
+Size of Size_t:		8 (bytes)
